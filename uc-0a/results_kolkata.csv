@@ -1,16 +1,16 @@
 complaint_id,category,priority,reason,flag
-KM-202401,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
-KM-202402,Road Damage,Standard,"Description cited 'road', 'broken', 'cobble', 'cobblestone' → category Road Damage; priority Standard.",
-KM-202405,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
-KM-202409,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
-KM-202410,Pothole,Standard,Description cited 'pothole' → category Pothole; priority Standard.,
-KM-202411,Pothole,Standard,Description cited 'pothole' → category Pothole; priority Standard.,
-KM-202415,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
-KM-202418,Waste,Standard,"Description cited 'waste', 'overflow' → category Waste; priority Standard.",
-KM-202421,Road Damage,Urgent,"Description cited 'sinking', 'broken', 'footpath' → category Road Damage; priority Urgent.",
-KM-202422,Road Damage,Standard,"Description cited 'road', 'buckled', 'surface', 'bridge' → category Road Damage; priority Standard.",
-KM-202426,Heritage Damage,Standard,Description cited 'heritage' → category Heritage Damage; priority Standard.,
-KM-202430,Road Damage,Standard,Description cited 'road' → category Road Damage; priority Standard.,
-KM-202434,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
-KM-202436,Streetlight,Standard,"Description cited 'substation', 'darkness' → category Streetlight; priority Standard.",
-KM-202438,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
+KM-202401,Heritage Damage,Standard,"Cited 'Heritage', 'knocked over', 'Not restored' in description so category Heritage Damage with priority Standard.",
+KM-202402,Heritage Damage,Standard,"Cited 'Historic', 'broken up' in description so category Heritage Damage with priority Standard.",
+KM-202405,Noise,Standard,Cited 'Wedding band' in description so category Noise with priority Standard.,
+KM-202409,Pothole,Standard,Cited 'pothole' in description so category Pothole with priority Standard.,
+KM-202410,Pothole,Standard,Cited 'Pothole' in description so category Pothole with priority Standard.,
+KM-202411,Pothole,Standard,Cited 'pothole' in description so category Pothole with priority Standard.,
+KM-202415,Drain Blockage,Standard,Cited 'drain' in description so category Drain Blockage with priority Standard.,
+KM-202418,Waste,Standard,"Cited 'waste', 'overflow' in description so category Waste with priority Standard.",
+KM-202421,Road Damage,Urgent,"Cited 'sinking', 'broken', 'Footpath' in description so category Road Damage with priority Urgent.",
+KM-202422,Road Damage,Standard,Cited 'buckled' in description so category Road Damage with priority Standard.,
+KM-202426,Heritage Damage,Standard,"Cited 'Heritage', 'defaced', 'billboard' in description so category Heritage Damage with priority Standard.",
+KM-202430,Road Damage,Standard,Cited 'subsided' in description so category Road Damage with priority Standard.,
+KM-202434,Heritage Damage,Standard,"Cited 'heritage', 'heritage stone', 'not replaced', 'removed' in description so category Heritage Damage with priority Standard.",
+KM-202436,Streetlight,Standard,"Cited 'substation', 'Darkness' in description so category Streetlight with priority Standard.",
+KM-202438,Noise,Standard,Cited 'amplifier' in description so category Noise with priority Standard.,
