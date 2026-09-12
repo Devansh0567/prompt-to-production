@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+AM-202401,Heat Hazard,Standard,"Description cited '°c', 'melting', 'unsafe', '44' → category Heat Hazard; priority Standard.",
+AM-202402,Heat Hazard,Standard,"Description cited 'temperature', 'dangerous' → category Heat Hazard; priority Standard.",
+AM-202405,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
+AM-202406,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
+AM-202407,Road Damage,Urgent,"Description cited 'broken', 'upturned', 'paving' → category Road Damage; priority Urgent.",
+AM-202410,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
+AM-202414,Streetlight,Standard,Description cited 'unlit' → category Streetlight; priority Standard.,
+AM-202417,Other,Standard,No category keywords matched clearly → category Other; priority Standard.,NEEDS_REVIEW
+AM-202421,Noise,Standard,"Description cited 'music', 'audible', 'club' → category Noise; priority Standard.",
+AM-202424,Road Damage,Standard,"Description cited 'road', 'surface', 'approach' → category Road Damage; priority Standard.",NEEDS_REVIEW
+AM-202429,Heat Hazard,Standard,"Description cited 'temperature', '°c', 'unbearable', '52' → category Heat Hazard; priority Standard.",
+AM-202431,Heritage Damage,Standard,"Description cited 'heritage', 'step well', 'old city' → category Heritage Damage; priority Standard.",NEEDS_REVIEW
+AM-202435,Heat Hazard,Standard,"Description cited 'heat', 'burns', 'storing heat' → category Heat Hazard; priority Standard.",NEEDS_REVIEW
+AM-202444,Waste,Standard,"Description cited 'waste', 'overflow' → category Waste; priority Standard.",
+AM-202445,Road Damage,Standard,"Description cited 'broken', 'shelter' → category Road Damage; priority Standard.",
